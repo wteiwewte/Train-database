@@ -1,2 +1,2 @@
 # Train-database
-PostgreSQL train database
+PostgreSQL train database.
